@@ -6,7 +6,7 @@ import {moviesList} from './assets/MookData'
 import {Switch , Route}  from 'react-router-dom'
 import Desc from './Components/Desc'
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+//ONLY 50% OF THE WORK 
 
 const App = () => {
   const [movieList, setMovieList] = useState(moviesList)
